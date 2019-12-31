@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CryptLib", "CryptLib\CryptLib.vcxproj", "{0DAB5CED-486D-4577-9178-90563689C365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		User Debug|ARM = User Debug|ARM
+		User Debug|ARM64 = User Debug|ARM64
+		User Debug|x64 = User Debug|x64
+		User Debug|x86 = User Debug|x86
+		User release|ARM = User release|ARM
+		User release|ARM64 = User release|ARM64
+		User release|x64 = User release|x64
+		User release|x86 = User release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DAB5CED-486D-4577-9178-90563689C365}.Debug|ARM.ActiveCfg = Debug|ARM
+		{0DAB5CED-486D-4577-9178-90563689C365}.Debug|ARM.Build.0 = Debug|ARM
+		{0DAB5CED-486D-4577-9178-90563689C365}.Debug|ARM.Deploy.0 = Debug|ARM
+		{0DAB5CED-486D-4577-9178-90563689C365}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{0DAB5CED-486D-4577-9178-90563689C365}.Debug|ARM64.Build.0 = Debug|ARM64
+		{0DAB5CED-486D-4577-9178-90563689C365}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{0DAB5CED-486D-4577-9178-90563689C365}.Debug|x64.ActiveCfg = Debug|x64
+		{0DAB5CED-486D-4577-9178-90563689C365}.Debug|x64.Build.0 = Debug|x64
+		{0DAB5CED-486D-4577-9178-90563689C365}.Debug|x64.Deploy.0 = Debug|x64
+		{0DAB5CED-486D-4577-9178-90563689C365}.Debug|x86.ActiveCfg = Debug|Win32
+		{0DAB5CED-486D-4577-9178-90563689C365}.Debug|x86.Build.0 = Debug|Win32
+		{0DAB5CED-486D-4577-9178-90563689C365}.Debug|x86.Deploy.0 = Debug|Win32
+		{0DAB5CED-486D-4577-9178-90563689C365}.Release|ARM.ActiveCfg = Release|ARM
+		{0DAB5CED-486D-4577-9178-90563689C365}.Release|ARM.Build.0 = Release|ARM
+		{0DAB5CED-486D-4577-9178-90563689C365}.Release|ARM.Deploy.0 = Release|ARM
+		{0DAB5CED-486D-4577-9178-90563689C365}.Release|ARM64.ActiveCfg = Release|ARM64
+		{0DAB5CED-486D-4577-9178-90563689C365}.Release|ARM64.Build.0 = Release|ARM64
+		{0DAB5CED-486D-4577-9178-90563689C365}.Release|ARM64.Deploy.0 = Release|ARM64
+		{0DAB5CED-486D-4577-9178-90563689C365}.Release|x64.ActiveCfg = Release|x64
+		{0DAB5CED-486D-4577-9178-90563689C365}.Release|x64.Build.0 = Release|x64
+		{0DAB5CED-486D-4577-9178-90563689C365}.Release|x64.Deploy.0 = Release|x64
+		{0DAB5CED-486D-4577-9178-90563689C365}.Release|x86.ActiveCfg = Release|Win32
+		{0DAB5CED-486D-4577-9178-90563689C365}.Release|x86.Build.0 = Release|Win32
+		{0DAB5CED-486D-4577-9178-90563689C365}.Release|x86.Deploy.0 = Release|Win32
+		{0DAB5CED-486D-4577-9178-90563689C365}.User Debug|ARM.ActiveCfg = USER|ARM
+		{0DAB5CED-486D-4577-9178-90563689C365}.User Debug|ARM.Build.0 = USER|ARM
+		{0DAB5CED-486D-4577-9178-90563689C365}.User Debug|ARM.Deploy.0 = USER|ARM
+		{0DAB5CED-486D-4577-9178-90563689C365}.User Debug|ARM64.ActiveCfg = USER|ARM64
+		{0DAB5CED-486D-4577-9178-90563689C365}.User Debug|ARM64.Build.0 = USER|ARM64
+		{0DAB5CED-486D-4577-9178-90563689C365}.User Debug|ARM64.Deploy.0 = USER|ARM64
+		{0DAB5CED-486D-4577-9178-90563689C365}.User Debug|x64.ActiveCfg = USER|x64
+		{0DAB5CED-486D-4577-9178-90563689C365}.User Debug|x64.Build.0 = USER|x64
+		{0DAB5CED-486D-4577-9178-90563689C365}.User Debug|x64.Deploy.0 = USER|x64
+		{0DAB5CED-486D-4577-9178-90563689C365}.User Debug|x86.ActiveCfg = USER|Win32
+		{0DAB5CED-486D-4577-9178-90563689C365}.User Debug|x86.Build.0 = USER|Win32
+		{0DAB5CED-486D-4577-9178-90563689C365}.User Debug|x86.Deploy.0 = USER|Win32
+		{0DAB5CED-486D-4577-9178-90563689C365}.User release|ARM.ActiveCfg = User release|ARM
+		{0DAB5CED-486D-4577-9178-90563689C365}.User release|ARM.Build.0 = User release|ARM
+		{0DAB5CED-486D-4577-9178-90563689C365}.User release|ARM.Deploy.0 = User release|ARM
+		{0DAB5CED-486D-4577-9178-90563689C365}.User release|ARM64.ActiveCfg = User release|ARM64
+		{0DAB5CED-486D-4577-9178-90563689C365}.User release|ARM64.Build.0 = User release|ARM64
+		{0DAB5CED-486D-4577-9178-90563689C365}.User release|ARM64.Deploy.0 = User release|ARM64
+		{0DAB5CED-486D-4577-9178-90563689C365}.User release|x64.ActiveCfg = User release|x64
+		{0DAB5CED-486D-4577-9178-90563689C365}.User release|x64.Build.0 = User release|x64
+		{0DAB5CED-486D-4577-9178-90563689C365}.User release|x64.Deploy.0 = User release|x64
+		{0DAB5CED-486D-4577-9178-90563689C365}.User release|x86.ActiveCfg = User release|Win32
+		{0DAB5CED-486D-4577-9178-90563689C365}.User release|x86.Build.0 = User release|Win32
+		{0DAB5CED-486D-4577-9178-90563689C365}.User release|x86.Deploy.0 = User release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {451FCEBE-6B38-4E9E-8DAD-34F2A186CAE8}
+	EndGlobalSection
+EndGlobal
